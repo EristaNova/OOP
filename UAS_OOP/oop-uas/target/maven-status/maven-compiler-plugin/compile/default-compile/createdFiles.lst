@@ -1,0 +1,6 @@
+lab\phb\oopuas\entity\DataMhs.class
+lab\phb\oopuas\controller\WebController.class
+lab\phb\oopuas\model\DataMhsModel.class
+lab\phb\oopuas\repo\DataMhsRepo.class
+lab\phb\oopuas\services\DataMhsService.class
+lab\phb\oopuas\OopUasApplication.class
